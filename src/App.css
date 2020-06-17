@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.counter-app {
+  background-color: #fffcf7;
+  margin-top: 50px;
+  padding: 20px 10px;
+}
