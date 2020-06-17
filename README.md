@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # React Counter App
 A very simple counter app via react! This one is the first app that I practice for learning react.  
 
-**[View Demo]**(https://rajondey.github.io/react-counter/)
+**[View Demo](https://rajondey.github.io/react-counter/)**
 
 ## Purpose
 * Practice to lear this framework
