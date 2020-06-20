@@ -17,3 +17,7 @@ A very simple counter app via react! This one is the first app that I practice f
 
 ## Version 
 * 0.0.1
+
+## License & Copyright
+* Licensed under the [MIT License](LICENSE)
+* © 2020 [RD Circles](https://www.rdcircles.com/) 
